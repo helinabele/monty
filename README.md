@@ -78,3 +78,8 @@ cd bytecodes
 cat bytecodes/FILENAME.m
 ./monty bytecodes/FILENAME.m
 ```
+<hr/>
+
+### Author
+- [Getinet Amare Mekonnen](https://www.github.com/getinet1221)
+- [Telegram](https://t.me/gama2112)
